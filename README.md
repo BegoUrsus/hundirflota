@@ -4,13 +4,11 @@ Juego realizado en java
 
 ##Capturas de pantalla
 
-![](https://raw.githubusercontent.com/BegoUrsus/hundirflota/master/intro.jpg) ![](httpshttps://raw.githubusercontent.com/BegoUrsus/calculadora-bt/gh-pages/Calculadora.jpg)
+![](https://raw.githubusercontent.com/BegoUrsus/hundirflota/master/intro.jpg) ![](https://raw.githubusercontent.com/BegoUrsus/hundirflota/master/partida.jpg)
 
-##Código y demo
+##Código
 
-[Demo](http://begoursus.github.io/calculadora-bt/site/)
-
-[Ver código](https://github.com/BegoUrsus/calculadora-bt/tree/gh-pages/site)
+[Ver código](https://github.com/BegoUrsus/hundirflota)
 
 ## Version
 
